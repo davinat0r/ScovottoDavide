@@ -11,7 +11,7 @@
 Cybersecurity Researcher on Self-Sovereign Identity and Distributed Ledger Technologies topics.
 
 - 🎓 &nbsp; Master's graduate in Computer Engineering, with specialist pathway in Cybersecurity
-- 👨🏻‍💻 &nbsp; Experience in designing and implementing Trusted Computing solutions, especially of Remote Attestaion protocols, always with "decentralization" mindset.
+- 👨🏻‍💻 &nbsp; Experience in designing and implementing Trusted Computing solutions, especially of Remote Attestaion protocols, with a "decentralized" approach.
 - 💻 &nbsp; Interest and passion for Cybersecurity and Sofware Development with the aim of Digital Identity Decentralization (SSI, Verifiable Credential)
 - 🔭 &nbsp; Currently involved in exciting Web3 Projects.
 
