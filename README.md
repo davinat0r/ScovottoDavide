@@ -41,8 +41,8 @@ Fields of interest: Security, SSI, DLT, Smart Contracts, Trusted Computing
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-### Open Source Contributions
-- ⚡&nbsp; Merged pull request on the rpi-5.15.y repository &rarr; checkout @ [TPM2.0 & IMA patch](https://github.com/ScovottoDavide/tpm-ima-patch)
+### Open Source Contributions ⚡
+- [TPM2.0 & IMA patch](https://github.com/ScovottoDavide/tpm-ima-patch)
   
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
