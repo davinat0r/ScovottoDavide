@@ -42,6 +42,6 @@ Fields of interest: Security, SSI, DLT, Smart Contracts, Trusted Computing
 ## Contact Me 📫
 
 [![Linkedin Badge](https://img.shields.io/twitter/url?color=lightblue&label=ScovottoDavide&logo=linkedin&logoColor=lightblue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmmertpolat)](https://www.linkedin.com/in/davide-scovotto-2aaa9720a/)
-[![Gmail Badge](https://img.shields.io/twitter/url?color=lightblue&label=ScovottoDavide&logo=gmail&logoColor=lightblue&style=for-the-badge&url=https%3A%2F%2Fwww.gmail.com%2Fin%2Fmmertpolat)](scovottodavide@gmail.com)
+[![Gmail Badge](https://img.shields.io/twitter/url?color=lightblue&label=ScovottoDavide&logo=gmail&logoColor=lightblue&style=for-the-badge&url=https%3A%2F%2Fwww.gmail.com%2Fin%2Fmmertpolat)](mailto:scovottodavide@gmail.com)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
