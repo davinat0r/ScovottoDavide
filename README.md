@@ -21,6 +21,8 @@ Fields of interest: Security, SSI, DLT, Smart Contracts, Trusted Computing
 
 ![Mert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ScovottoDavide&show_icons=true)
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
 ### Using 🧠
   
 <code><a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a></code>
@@ -37,6 +39,11 @@ Fields of interest: Security, SSI, DLT, Smart Contracts, Trusted Computing
 <code><a href="https://code.visualstudio.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a></code> 
 <code><a href="https://git-scm.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
+
+### Contributions
+- ⚡&nbsp; Merged pull request on the rpi-5.15.y repository &rarr; checkout @ [TPM2.0 & IMA patch](https://github.com/ScovottoDavide/tpm-ima-patch)
+  
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ## Contact Me 📫
