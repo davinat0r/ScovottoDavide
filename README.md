@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1 align="center"><!--Ciao <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">--> Davide Scovotto </h1>
 <h3 align="center"> Cybersecurity Researcher @ LINKS Foundation </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ScovottoDavide&label=Profile%20views&color=0e75b6&style=flat" alt="ScovottoDavide" /> 
+<!--p align="left" hidden="true"> <img src="https://komarev.com/ghpvc/?username=ScovottoDavide&label=Profile%20views&color=0e75b6&style=flat" alt="ScovottoDavide" /--> 
  <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/>
 </p>
 
