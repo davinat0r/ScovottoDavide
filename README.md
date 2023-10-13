@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center"><!--Ciao <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">--> Davide Scovotto </h1>
-<h3 align="center"> Cybersecurity Researcher @ LINKS Foundation </h3>
+<h3 align="center"> Blockchain Software Engineer @ Conio Inc. </h3>
 <!--p align="left" hidden="true"> <img src="https://komarev.com/ghpvc/?username=ScovottoDavide&label=Profile%20views&color=0e75b6&style=flat" alt="ScovottoDavide" /--> 
  <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/>
 </p>
@@ -8,12 +8,13 @@
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-Cybersecurity Researcher on Self-Sovereign Identity and Distributed Ledger Technologies topics.
+Summary:
 
 - 🎓 &nbsp; Master's graduate in Computer Engineering, with specialist pathway in Cybersecurity
 - 👨🏻‍💻 &nbsp; Experience in designing and implementing Trusted Computing solutions, especially of Remote Attestaion protocols, with a "decentralized" approach.
 - 💻 &nbsp; Passion for Cybersecurity and Sofware Development, with special interest on Web3 technologies and Digital Identity Decentralization (SSI, Verifiable Credential)
 - 🔭 &nbsp; Currently involved in exciting Web3 Projects.
+- 🔭 &nbsp; Working on Multi-signature custodial wallets.
 
 Fields of interest: Security, SSI, DLT, Smart Contracts, Trusted Computing
 
