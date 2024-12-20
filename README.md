@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h1 align="center"><!--Ciao <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">--> Davide Scovotto </h1>
 <h3 align="center"> Blockchain Software Engineer @ Conio Inc. </h3>
-<!--p align="left" hidden="true"> <img src="https://komarev.com/ghpvc/?username=ScovottoDavide&label=Profile%20views&color=0e75b6&style=flat" alt="ScovottoDavide" /--> 
+<!--p align="left" hidden="true"> <img src="https://komarev.com/ghpvc/?username=davinat0r&label=Profile%20views&color=0e75b6&style=flat" alt="davinat0r" /--> 
  <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/>
 </p>
 
@@ -20,7 +20,7 @@ Fields of interest: Security, SSI, DLT, Smart Contracts, Trusted Computing
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
-![Mert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ScovottoDavide&show_icons=true)
+![Mert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=davinat0r&show_icons=true)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
@@ -43,13 +43,13 @@ Fields of interest: Security, SSI, DLT, Smart Contracts, Trusted Computing
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ### Open Source Contributions ⚡
-- [TPM2.0 & IMA patch](https://github.com/ScovottoDavide/tpm-ima-patch)
+- [TPM2.0 & IMA patch](https://github.com/davinat0r/tpm-ima-patch)
   
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 
 ## Contact Me 📫
 
 [![Linkedin Badge](https://img.shields.io/twitter/url?color=lightblue&label=ScovottoDavide&logo=linkedin&logoColor=lightblue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmmertpolat)](https://www.linkedin.com/in/davide-scovotto-2aaa9720a/)
-[![Gmail Badge](https://img.shields.io/twitter/url?color=lightblue&label=ScovottoDavide&logo=gmail&logoColor=lightblue&style=for-the-badge&url=https%3A%2F%2Fwww.gmail.com%2Fin%2Fmmertpolat)](mailto:scovottodavide@gmail.com)
+[![Gmail Badge](https://img.shields.io/twitter/url?color=lightblue&label=ScovottoDavide&logo=gmail&logoColor=lightblue&style=for-the-badge&url=https%3A%2F%2Fwww.gmail.com%2Fin%2Fmmertpolat)](mailto:davinat0r@gmail.com)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
